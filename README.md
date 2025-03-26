@@ -11,7 +11,7 @@ It includes two simple Java games:
 - The computer picks a random number between **1 and 100**  
 - You have **5 chances** to guess  
 - It tells you if your guess is **too high** or **too low**  
-- At the end, it shows the correct number and asks if you want to **play again** 🎯
+- At the end, it shows the correct number and asks if you want to **play again** 
 
 ---
 
@@ -26,7 +26,7 @@ It includes two simple Java games:
 
 ---
 
-## 📂 What’s Included
+## What’s Included
 - Java files for both games  
 - A working **main menu** to pick a game  
 -  Javadoc comments  
@@ -34,8 +34,8 @@ It includes two simple Java games:
 
 ---
 
-## ▶️ How to Run
+## ▶ How to Run
 1. Open the project in **IntelliJ IDEA**
 2. Run `Main.java`
-3. Follow the instructions on the screen and have fun! 🎉
+
 
